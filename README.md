@@ -24,7 +24,8 @@ This project demonstrates how to approximate a square wave using the Fourier ser
 ## 📊 Example Output
 The script generates a plot comparing the original square wave and its Fourier series approximation (with 50 terms).
 
-![Fourier Series Approximation](https://github.com/your-username/fourier-series-square-wave/blob/main/fourier_plot.png)
+<img width="432" alt="image" src="https://github.com/user-attachments/assets/0689a973-2869-4cbd-bae2-424d345b2819" />
+
 
 📝 Code Explanation
 1.Define the square wave function using scipy.signal.square(x).
